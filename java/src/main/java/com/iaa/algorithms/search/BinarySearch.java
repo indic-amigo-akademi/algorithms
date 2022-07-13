@@ -1,6 +1,5 @@
 package com.iaa.algorithms.search;
 
-import java.lang.System.Logger;
 import java.util.ArrayList;
 
 public class BinarySearch<T extends Comparable<T>> {
